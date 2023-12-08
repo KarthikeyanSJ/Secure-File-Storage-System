@@ -42,3 +42,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Screenshot:
 
+![image](https://github.com/KarthikeyanSJ/Secure-File-Storage-System/assets/44862673/ce1ef89e-8cac-414b-b172-13e05d34cb49)
+
+
+![image](https://github.com/KarthikeyanSJ/Secure-File-Storage-System/assets/44862673/b3967aea-05ea-4084-a0b2-f115e11536c0)
+
+
+
+
